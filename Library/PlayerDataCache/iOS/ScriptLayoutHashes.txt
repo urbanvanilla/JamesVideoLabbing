@@ -1,0 +1,22 @@
+iOS
+PlayerPath?
+C:/Users/James/Desktop/videopaks/op1float/iOS/op1float
+SceneListBegin?
+Assets/Scenes/OP-1Float.unity
+SceneListEnd?
+cdf47e4ca5afd5e32d939deed28706c8 Assembly-CSharp.dll:Klak.Wiring.BangFilter
+766d8e3aaa6fe2eaee24d5f405de28fd Assembly-CSharp.dll:Klak.Motion.BrownianMotion
+a80c94133ae7687ac03f9b0199e6de5f Assembly-CSharp.dll:Kino.DigitalGlitch
+e58ed249eab77ea7e0de718ac5de53d8 Assembly-CSharp.dll:Kino.Bloom
+aa5430b01bc8a0ee43f9da28a9737da3 Assembly-CSharp.dll:Klak.Wiring.IntOut
+991792f97806790f7893c26496901ea1 Assembly-CSharp.dll:Klak.Wiring.Patch
+805ece488684893aa782153f0d1ea0b6 Assembly-CSharp.dll:Klak.Wiring.FloatAnimation
+64bd5c650cfb7c4b72f906585bc7adf5 Assembly-CSharp.dll:Videolab.Degrade
+aa5430b01bc8a0ee43f9da28a9737da3 Assembly-CSharp.dll:Klak.Wiring.FloatOut
+36b544eae2f5e96009098514ca385dc0 Assembly-CSharp.dll:Klak.Midi.NoteInput
+2b101feaf3943151868e013ac09b74e5 Assembly-CSharp.dll:Klak.Midi.KnobInput
+0a7329bd45c3973340b35316e6a1bdd5 Assembly-CSharp.dll:Klak.Wiring.FloatFilter
+6a2902ba5e302d374360a7f875aec9d6 Assembly-CSharp.dll:Videolab.Halftone
+7bbb8000d2a6949651e97bd8e314ea7e Assembly-CSharp.dll:Kino.Binary
+e50771eea249c6c8c44986aa8329a89a Assembly-CSharp.dll:Kino.AnalogGlitch
+b2f1dc027e397a7f7b7019eb4c973303 Assembly-CSharp.dll:Kino.Mirror
